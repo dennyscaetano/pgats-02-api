@@ -1,0 +1,9 @@
+{
+  "data": {
+    "createTransfer": {
+      "from": "julio",
+      "to": "priscila",
+      "value": 10
+    }
+  }
+}
